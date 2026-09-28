@@ -11,3 +11,19 @@ accountCity = "Bengaluru";
 
 console.log(accountId);
 console.table([accountId, accountEmail, accountPassword, accountCity]);
+
+/*
+const accountId = 14332;
+let Email = "hitesh@gmail.com";
+var accountPassword = "asdf@12";
+let accountCity = "Pune";
+
+//account =2
+
+Email = "sbdiwu@gmail.com";
+accountPassword = "asdf@13";
+accountCity = "Mumbai";
+
+ console.log(accountId);
+ console.table([accountId,Email,accountPassword,accountCity]);
+*/
