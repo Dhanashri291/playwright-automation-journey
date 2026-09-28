@@ -1,6 +1,9 @@
 # playwright-automation-journey
 JavaScript fundamentals &amp; Playwright test automation framework with Page Object Model and CI/CD.
 
-## Learning Progress
-- [x] JavaScript Variables & Data Types
-- [x] Type Conversions & Operations
+##  Learning Roadmap
+- [x] Variables & Data Types ('01_variables.js', '02_datatypes.js')
+- [x] Type Conversions & Comparisons
+- [ ] Control Flow & Loops
+- [ ] Functions & Scope
+- [ ] Playwright Setup & Automation Basics
