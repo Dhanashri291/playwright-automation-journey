@@ -4,6 +4,6 @@ git
 ##  Learning Roadmap
 - [x] Variables & Data Types ('01_variables.js', '02_datatypes.js')
 - [x] Type Conversions & Comparisons
-- [ ] Control Flow & Loops
+- [x] Control Flow & Loops
 - [ ] Functions & Scope
 - [ ] Playwright Setup & Automation Basics
